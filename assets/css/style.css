@@ -1538,7 +1538,7 @@ h3.education_place {
 
 /*================== 07 Start progress baar section css ==================  */
 .port_progress_setions {
-    background: rgb(139, 24, 26);
+    background: #8b181a;
     padding: 80px 0;
 }
 .experience_section {
@@ -1765,7 +1765,7 @@ h3.education_place {
 }
 .port_services_setions .port_services_box h2 {
 	font-size: 22px;
-    color: #556d91;
+    color: #8b181a;
     padding: 28px 0px 9px 0px;
     text-transform: capitalize;
     position: relative;
@@ -1779,7 +1779,7 @@ h3.education_place {
 h2.project_heading:after {
     content: "";
     position: absolute;
-    background: rgb(255, 196, 84);
+    background: #8b181a;
     width: 70px;
     height: 2px;
     left: 0;
@@ -1905,13 +1905,13 @@ h2.project_heading:after {
     -ms-transition: ease all 0.55s;
     -o-transition: ease all 0.55s;
     transition: ease all 0.55s;
-    background: #ff517e;
+    background: #8b181a;
 }
 .port_project_gallery .gallery_nav ul li a.gallery_active:after {
     width: 100%;
 }
 .port_project_gallery .gallery_nav ul li .gallery_active{
-	color:#ff517e;
+	color:#8b181a;
 }
 /*================== 10 End Projects section css ==================  */
 
@@ -2248,7 +2248,7 @@ h2.project_heading:after {
 
 /*================== 13 Start responser section css ==================  */
 .port_responsor_setions {
-    background: #00c8da;
+    background: #8b181a;
     padding: 80px 0px
 }
 .port_contact_wrapper {
@@ -2376,7 +2376,7 @@ h2.project_heading:after {
     color: #777777;
 }
 .port_footer_setions .copy_right_wrapper {
-    background: #ffc454;
+    background: #8b181a;
     padding:17px 0 12px 0;
 	margin-top: 72px;
 }
