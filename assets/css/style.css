@@ -2307,7 +2307,8 @@ h2.project_heading:after {
 /*================== 14 Start map section css ==================  */
 .port_map_setions .map_box #world-map {
     width: 100%;
-    height: 586px;
+    /*height: 586px;*/
+    height: 340px;
 }
 .port_map_setions .jvmap-smart{
     width: 100%; 
@@ -2325,6 +2326,7 @@ h2.project_heading:after {
 
 /*================== 15 Start contact section css ==================  */
 .port_contact_setions .port_contact_mainbox {
+    border-radius: 25px;
     max-width: 770px;
     height: auto;
     background-color: #fff;
