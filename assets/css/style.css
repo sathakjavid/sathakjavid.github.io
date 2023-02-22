@@ -408,13 +408,13 @@ transform: translate(-50%,-50%);
 	background:#ff4a4a2e;
 }
 .port_navigation .nav_list li.active:nth-child(2)::before {
-	background:#1bcae538;
+	background:#a4c2ef26;
 }
 .port_navigation .nav_list li.active:nth-child(3)::before {
-	background:#ffc4554f;
+	background:#ff4a4a2e;
 }
 .port_navigation .nav_list li.active:last-child::before {
-	background:#ff754a4f;
+	background:#a4c2ef26;
 }
 .port_navigation .nav_list li:before {
     border-radius: 10px;
